@@ -727,7 +727,7 @@ img.svg{
 	clear: both;
 	float: left;
 	margin-bottom: 200px;
-	padding: 255px 0px 200px 0px;
+	padding: 255px 0px 50px 0px;
 	background-color: #f8f9fa;
 }
 .waxon_tm_portoflio .portfolio_inner{
@@ -1440,7 +1440,7 @@ body.dark .waxon_tm_partners ul.dark{display: none;}
 	float: left;
 	position: relative;
 	margin-bottom: 200px;
-	padding-top: 255px;
+	padding-top: 55px;
 }
 .waxon_tm_contact .contact_inner{
 	width: 100%;
